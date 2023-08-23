@@ -1,2 +1,1 @@
-# F7 Terminal-solver
-# A MOD TO HELP YOU DO TERMINALS
+# F7 Terminal-solver. a mod to help you with terminals
