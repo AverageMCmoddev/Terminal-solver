@@ -7,4 +7,4 @@
 
 -`/ts` Opens a GUI with all of the settings of the Terminal Solver mod.
 
-<img src="https://hypixel.net/attachments/2300700/">
+<img src="https://hypixel.net/attachments/2300700" width="300" height="150"/>
