@@ -1,6 +1,6 @@
 # F7 Terminal-solver. A Mod To Help You With Terminals
 
-Make Sure To Go Into Releases To Download The Lates Version
+- Make Sure To Go Into Releases To Download The Lates Version
 
 <img src="https://hypixel.net/attachments/colour-before-after-png.2710496" width="400" height="250" />
 
